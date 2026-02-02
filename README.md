@@ -118,9 +118,9 @@ This project demonstrates proficiency in:
 ## Contact & Collaboration
 
 For questions, suggestions, or collaboration opportunities:
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: Saurav P. Shejwal
+- Email: sauravshejwal@gmail.com
+- GitHub: shejucodes
 
 ---
 
